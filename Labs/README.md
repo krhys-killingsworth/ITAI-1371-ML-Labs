@@ -1,6 +1,6 @@
 # Labs — ITAI 1371
 
-Twelve completed lab notebooks from Applied Machine Learning at Houston Community College, ordered by course module. Each folder contains the notebook with saved outputs and a README covering what the lab addressed, what I built, what I learned, and where I got stuck.
+Twelve completed lab notebooks from Applied Machine Learning at Houston City College, ordered by course module. Each folder contains the notebook with saved outputs and a README covering what the lab addressed, what I built, what I learned, and where I got stuck.
 
 | # | Lab | Focus |
 |---|---|---|

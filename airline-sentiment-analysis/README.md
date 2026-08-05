@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krhys-killingsworth/ITAI-1371-ML-Labs/blob/main/airline-sentiment-analysis/notebooks/FP_AirlineTweets_KrhystopherKillingsworth.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Krhystopher-Killingsworth-ML-Course/blob/main/airline-sentiment-analysis/notebooks/FP_AirlineTweets_KrhystopherKillingsworth.ipynb)
 
 ---
 
@@ -129,7 +129,7 @@ It also partly rescues the sarcasm problem. The model can't detect irony, but it
 ## Quickstart
 
 ```bash
-git clone https://github.com/krhys-killingsworth/ITAI-1371-ML-Labs.git
+git clone https://github.com/krhys-killingsworth/Krhystopher-Killingsworth-ML-Course.git
 cd airline-sentiment-analysis
 pip install -r requirements.txt
 ```
@@ -237,7 +237,7 @@ Stated plainly, because they matter more than the score:
 
 Dataset originally collected by CrowdFlower (now Appen) and distributed via Kaggle as *Twitter US Airline Sentiment*.
 
-Built as the final project for **ITAI 2372** at Houston Community College.
+Built as the final project for **ITAI 1371** at Houston City College.
 
 ## License
 

@@ -7,7 +7,7 @@ Houston City College · A.A.S. Artificial Intelligence & Robotics
 
 ## About Me
 
-I'm a first-year AI and Robotics student at Houston Community College, working toward an A.A.S. in Artificial Intelligence. I came into this program from a background in customer-facing, administrative, and skilled trade work, with no prior programming experience.
+I'm a first-year AI and Robotics student at Houston City College, working toward an A.A.S. in Artificial Intelligence. I came into this program from a background in customer-facing, administrative, and skilled trade work, with no prior programming experience.
 
 My interest is in AI and robotics: systems that act in the world rather than just report a number. That makes it matter a great deal whether the number is real. The labs I found most interesting here were the ones where the model produced a number that looked good and was, on inspection, meaningless: a Random Forest scoring 100% on a dataset too easy to be informative, a classifier with respectable aggregate accuracy that quietly rejected half of all qualified women, a metric I had chosen for defensible business reasons that a model then gamed by doing nothing useful. Building models turns out to be the accessible part. Knowing when to distrust one is the actual skill.
 

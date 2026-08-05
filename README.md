@@ -1,23 +1,23 @@
 # Krhystopher Killingsworth — Machine Learning Portfolio
 
 **ITAI 1371 — Applied Machine Learning**
-Houston Community College · A.A.S. Artificial Intelligence & Robotics
+Houston City College · A.A.S. Artificial Intelligence & Robotics
 
 ---
 
-## About me
+## About Me
 
-I'm a first-year AI and Robotics student at Houston Community College, working toward an A.A.S. in Artificial Intelligence. I came into this program from a background in customer-facing, administrative, and skilled trade work, with no prior programming experience — which means everything in this repository represents a skill I did not have twelve months ago.
+I'm a first-year AI and Robotics student at Houston Community College, working toward an A.A.S. in Artificial Intelligence. I came into this program from a background in customer-facing, administrative, and skilled trade work, with no prior programming experience.
 
-What pulled me toward machine learning was less the algorithms than the failure modes. The labs I found most interesting here were the ones where the model produced a number that looked good and was, on inspection, meaningless: a Random Forest scoring 100% on a dataset too easy to be informative, a classifier with respectable aggregate accuracy that quietly rejected half of all qualified women, a metric I had chosen for defensible business reasons that a model then gamed by doing nothing useful. Building models turns out to be the accessible part. Knowing when to distrust one is the actual skill.
+My interest is in AI and robotics: systems that act in the world rather than just report a number. That makes it matter a great deal whether the number is real. The labs I found most interesting here were the ones where the model produced a number that looked good and was, on inspection, meaningless: a Random Forest scoring 100% on a dataset too easy to be informative, a classifier with respectable aggregate accuracy that quietly rejected half of all qualified women, a metric I had chosen for defensible business reasons that a model then gamed by doing nothing useful. Building models turns out to be the accessible part. Knowing when to distrust one is the actual skill.
 
-Alongside this coursework I build AI applications under the **K.A.I.** (Killingsworth Artificial Intelligence) name — computer vision, agent architectures, and full-stack ML deployment. I placed 2nd in the beginner track at HackHCC and am currently an AWS AI & ML Scholar on the Agent Developer track.
+Alongside this coursework I build AI applications under the K.A.I. (Killingsworth Artificial Intelligence) name — computer vision, agent architectures, and full-stack ML deployment. I placed 2nd in the beginner track at HackHCC Hackathon 2026 and I am currently an AWS AI & ML Scholar on the Agent Developer track.
 
-**Interests:** computer vision · AI agent development · ML fairness and auditing · adversarial ML and AI security
+Interests: AI Agents · Robotics · Algorithms · Video Games · Travel · Animals
 
 ---
 
-## Featured project
+## Featured Project
 
 ### [Airline Tweet Sentiment Analysis →](airline-sentiment-analysis/)
 
@@ -25,7 +25,7 @@ Three-class sentiment classification on 14,427 airline customer tweets, framed a
 
 The headline finding: the model that won my chosen business metric was the worst model for the job. Naive Bayes posted the best complaint recall in the study (96.6%) by predicting "negative" at almost everything — its neutral recall collapsed to 30%. Only a paired guard metric caught it.
 
-> Built as the final project for **ITAI 2372** and included here as a portfolio showcase of the techniques developed across this course. Complete with source module, methodology docs, nine figures, and a results table.
+> Built as the final project for **ITAI 1371** and included here as a portfolio showcase of the techniques developed across this course. Complete with source module, methodology docs, nine figures, and a results table.
 
 ---
 

@@ -1,0 +1,5 @@
+model,accuracy,f1_macro,f1_weighted,recall_negative,complaints_missed,neutral_overflagged
+Baseline (majority class),0.6314,0.258,0.4887,1.0,0.0,1.0
+Multinomial Naive Bayes,0.7522,0.6259,0.7202,0.9658,0.0342,0.6279
+Logistic Regression,0.7487,0.7037,0.7571,0.78,0.22,0.2209
+Linear SVM,0.7838,0.7224,0.7814,0.8749,0.1251,0.3422
